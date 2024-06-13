@@ -25,3 +25,5 @@ to use only webcam for viedeo feed run the main.py file
 
 to use WEBGEAER API run server.py file
 
+for training keep the images in a folder named ./Validation
+
