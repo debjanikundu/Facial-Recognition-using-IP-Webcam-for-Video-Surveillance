@@ -20,3 +20,8 @@ attendance tracking through automated facial recognition.
 
 systm design:- https://drive.google.com/drive/folders/18zSwTJEvLExgfohZRIOV3HI2CET9ZrpZ
 
+
+to use only webcam for viedeo feed run the main.py file
+
+to use WEBGEAER API run server.py file
+
