@@ -1,4 +1,4 @@
-# Facial-Recognition-using-IP-Webcam-for-Video-Surveillance
+# Facial-Recognition-using-IP-Webcam-for-Video-Surveillance using dlib module
 To solve the problem about the detection of Known faces and also sort out the authorized and unauthorized users
 System Overview -
 The Facial Recognition System is a cutting-edge AI-powered solution designed to
